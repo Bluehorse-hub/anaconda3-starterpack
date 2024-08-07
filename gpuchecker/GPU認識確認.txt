@@ -1,0 +1,3 @@
+機械学習に必要なGPUがちゃんと認識されるかの簡易テストプログラム
+pytorch-gpu-checkerはPytorch用
+tf-gpu-checkerはTensorflow用
